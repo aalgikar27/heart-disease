@@ -6,8 +6,6 @@ This is a simple Streamlit web application that allows users to predict the like
 
 ![dog and cat image](data/image/hd.png)
 
-[Live Website](https://heart-disease-checking.streamlit.app/)
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
