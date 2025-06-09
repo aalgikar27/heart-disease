@@ -31,7 +31,7 @@ To run this application, you need:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Prem07a/Heart-Disease.git
+git clone https://github.com/aalgikar27/heart-disease.git
 ```
 
 2. Navigate to the project directory:
